@@ -1,6 +1,6 @@
 # Super Mario Jump
 
-![Super Mario Jump Demo]
+Super Mario Jump Demo
 
 Super Mario Jump is a fun and straightforward game where Mario needs to jump over pipes and avoid obstacles. It's a small project created using HTML, CSS, and JavaScript.
 
